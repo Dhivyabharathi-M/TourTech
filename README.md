@@ -5,7 +5,7 @@ This project was created as a hands-on practice after learning the fundamentals 
 
 The goal of this project is to showcase beautiful travel destinations while strengthening core concepts of UI design, layout styling, and basic interactivity.
 
-✨ Features
+**Features**
 
 🧭 Clean and responsive website layout
 
@@ -19,7 +19,7 @@ The goal of this project is to showcase beautiful travel destinations while stre
 
 📱 Beginner-friendly structure
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5 – Page structure
 
@@ -27,7 +27,7 @@ CSS3 – Styling and layout
 
 JavaScript – Basic interactivity
 
-📁 Project Purpose
+**📁 Project Purpose**
 
 This project was built after learning HTML, CSS, and JavaScript to:
 
@@ -40,8 +40,8 @@ Understand website structure
 Build confidence in web development
 
 It is a learning-focused project and part of my web development journey 🚀
-
-🚀 How to Run the Project
+**
+🚀 How to Run the Project**
 
 Clone the repository:
 
@@ -55,25 +55,3 @@ Open index.html in your browser
 That’s it! 🎉
 
 
-📌 Future Improvements
-
-Add more destinations
-
-Improve responsiveness
-
-Add animations and transitions
-
-Enhance JavaScript functionality
-
-Integrate a booking or contact form
-
-💡 Learning Note
-
-This project reflects my learning progress and practical understanding of HTML, CSS, and JavaScript.
-
-If you are a beginner, this project can also be used as a learning reference.
-
-
-
-This project reflects my learning progress and practical understanding of HTML, CSS, and JavaScript.
-Feedback and suggestions are always appreciated! 😊
