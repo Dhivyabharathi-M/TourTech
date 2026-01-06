@@ -19,6 +19,7 @@ The goal of this project is to showcase beautiful travel destinations while stre
 
 📱 Beginner-friendly structure
 
+
 **🛠️ Technologies Used**
 
 HTML5 – Page structure
@@ -39,14 +40,13 @@ Understand website structure
 
 Build confidence in web development
 
-It is a learning-focused project and part of my web development journey 🚀
-**
-🚀 How to Run the Project**
+It is a learning-focused project and part of my web development journey 
+
+**🚀 How to Run the Project**
 
 Clone the repository:
 
 git clone https://github.com/Dhivyabharathi-M/TourTech.git
-
 
 Open the project folder
 
