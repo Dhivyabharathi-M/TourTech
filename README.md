@@ -1,6 +1,6 @@
-Adventour – Tourism Website
+**TourTech – Tourism Website**
 
-Adventour is a simple and visually appealing tourism website built using HTML, CSS, and a touch of JavaScript.
+TourTech is a simple and visually appealing tourism website built using HTML, CSS, and a touch of JavaScript.
 This project was created as a hands-on practice after learning the fundamentals of frontend web development.
 
 The goal of this project is to showcase beautiful travel destinations while strengthening core concepts of UI design, layout styling, and basic interactivity.
@@ -45,7 +45,7 @@ It is a learning-focused project and part of my web development journey 🚀
 
 Clone the repository:
 
-git clone https://github.com/your-username/Adventour-tourism-website.git
+git clone https://github.com/Dhivyabharathi-M/TourTech.git
 
 
 Open the project folder
